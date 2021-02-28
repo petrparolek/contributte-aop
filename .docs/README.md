@@ -4,6 +4,7 @@
 
 - [Setup](#usage)
 - [Configuration](#configuration)
+- [Upgrade to v2](#upgrade-to-v2)
 - [Dictionary](#dictionary)
 - [Advice types](#advice-types)
 - [Pointcut Syntax](#pointcut-syntax)
@@ -33,6 +34,10 @@ extensions:
 Nettrine cache is there because of annotations, you can avoid it if you want.
 
 You can find the [documentation of annotations extension here](https://github.com/nettrine/annotations/tree/master/.docs).
+
+## Upgrade to v2
+
+Version 2 removes nettrine/annotations dependenciy and relly directly on php 8 attributes.
 
 
 ## Configuration

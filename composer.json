@@ -18,11 +18,7 @@
 		"nette/di": "^3.0.3",
 		"nette/php-generator": "^3.0",
 		"nette/tokenizer": "~3.0",
-		"nette/reflection": "^2.4",
-		"nettrine/annotations": "^0.7",
-		"symfony/property-access": "^4.4|~5.0",
-		"symfony/polyfill-ctype": "^1.0",
-		"nettrine/cache": "^0.3"
+		"nette/reflection": "^2.4"
 	},
 	"require-dev": {
 		"nette/application": "^3.0.1",
